@@ -1,0 +1,10 @@
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\bin\Debug\KEPCE.exe.config
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\bin\Debug\KEPCE.exe
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\bin\Debug\KEPCE.pdb
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.csprojAssemblyReference.cache
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.Form1.resources
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.Properties.Resources.resources
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.csproj.GenerateResource.cache
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.exe
+C:\Users\Hasan Ozdemir\source\repos\KEPCE\KEPCE\obj\Debug\KEPCE.pdb
